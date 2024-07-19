@@ -21,8 +21,8 @@ class _DrawerHomeState extends State<DrawerHome> {
               decoration: BoxDecoration(
                   color: Colors.blue.shade800,
                   borderRadius: BorderRadius.circular(15)),
-              accountName: Text("Vishal"),
-              accountEmail: Text("vishalgovindiya123@gmail.com")),
+              accountName: Text("Sahdev Shishs"),
+              accountEmail: Text("sahdevshisha@gmail.com")),
           ListTile(
             onTap: () {
               Navigator.pop(context);
